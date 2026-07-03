@@ -1,2 +1,3 @@
-#SSL
-este es mi repositorio para la cursada de sintaxis y semantica de los lenguajes 
+# TP0
+## Primer programa en C
+"Hola Mundo"
